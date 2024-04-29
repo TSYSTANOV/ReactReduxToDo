@@ -1,1 +1,3 @@
-export const OPEN_WINDOW = 'OPEN_WINDOW'
+export const ADD_TITLE_FILTER = "ADD_TITLE_FILTER";
+export const ONLY_COMPLETED = "ONLY_COMPLETED";
+export const RESET_FILTERS = "RESET_FILTERS";
